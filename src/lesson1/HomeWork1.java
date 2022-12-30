@@ -6,6 +6,7 @@ public class HomeWork1 {
 
     }
     private static void task1() {
+
         System.out.println("Решение первой задачи");
     }
 }
