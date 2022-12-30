@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="63b97433-0aff-4c49-a70e-380388b42473" name="Changes" comment="feat: little refresh">
+      <change afterPath="$PROJECT_DIR$/src/Counter.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -33,14 +34,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "D:/home/levak/dev/new-project"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/home/levak/dev/new-project&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.TextColor">
+}</component>
+  <component name="RunManager" selected="Application.Counter">
+    <configuration name="Counter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Counter" />
+      <module name="examples" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="MethodSyntax2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="MethodSyntax2" />
       <module name="examples" />
@@ -50,13 +58,6 @@
     </configuration>
     <configuration name="Method_Syntax" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Method_Syntax" />
-      <module name="examples" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Program" />
       <module name="examples" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -78,11 +79,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Counter" />
         <item itemvalue="Application.TextColor" />
         <item itemvalue="Application.MethodSyntax2" />
         <item itemvalue="Application.Method_Syntax" />
         <item itemvalue="Application.TextColorTest1" />
-        <item itemvalue="Application.Program" />
       </list>
     </recent_temporary>
   </component>
@@ -119,11 +120,25 @@
     <option name="localTasksCounter" value="4" />
     <servers />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="feat: add gitignore" />
     <MESSAGE value="feat: add examples" />
     <MESSAGE value="feat: little refresh" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: little refresh" />
+    <MESSAGE value="feat:  homework done lesson1" />
+    <MESSAGE value="feat:  1 add 1 modified" />
+    <MESSAGE value="feat:  modified" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat:  modified" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
