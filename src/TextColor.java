@@ -24,7 +24,7 @@ public class TextColor {
     }
 
     public static void print (String color) { //метод для вывода текста(символа)
-        for (int i = 0; i < 55; i++) {    // цикл-счетчик символов в строке
+        for (int i = 0; i < 40; i++) {    // цикл-счетчик символов в строке
             System.out.print(color +"@"); //текст(символ) в стр.):"\u0580"- ր ;"\u050D"- ֍ ; %; $; @...
         }
         System.out.println();
