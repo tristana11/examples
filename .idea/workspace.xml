@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="63b97433-0aff-4c49-a70e-380388b42473" name="Changes" comment="feat: add gitignore">
-      <change afterPath="$PROJECT_DIR$/src/MethodSyntax2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Method_Syntax.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TextColor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TextColorTest1.java" afterDir="false" />
+    <list default="true" id="63b97433-0aff-4c49-a70e-380388b42473" name="Changes" comment="feat: add examples">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -105,12 +101,20 @@
       <option name="project" value="LOCAL" />
       <updated>1672417531842</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="feat: add examples">
+      <created>1672434377220</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1672434377220</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="feat: add gitignore" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: add gitignore" />
+    <MESSAGE value="feat: add examples" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: add examples" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
