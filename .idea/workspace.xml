@@ -4,9 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="63b97433-0aff-4c49-a70e-380388b42473" name="Changes" comment="feat: little refresh">
-      <change afterPath="$PROJECT_DIR$/src/Counter.java" afterDir="false" />
+    <list default="true" id="63b97433-0aff-4c49-a70e-380388b42473" name="Changes" comment="feat:  add Counter and code">
+      <change afterPath="$PROJECT_DIR$/src/Array/ArrayExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array/ArrayExample2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TextColor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Color/TextColor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TextColorTest1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Color/TextColorTest1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lesson1/HomeWork1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lesson1/HomeWork1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,14 +38,40 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/home/levak/dev/new-project&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "D:/home/levak/dev/examples"
   }
-}</component>
-  <component name="RunManager" selected="Application.Counter">
+}]]></component>
+  <component name="RunManager" selected="Application.ArrayExample2">
+    <configuration name="ArrayExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Array.ArrayExample" />
+      <module name="examples" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Array.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ArrayExample2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Array.ArrayExample2" />
+      <module name="examples" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Array.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Counter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Counter" />
       <module name="examples" />
@@ -49,29 +79,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MethodSyntax2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MethodSyntax2" />
+    <configuration name="HomeWork1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lesson1.HomeWork1" />
       <module name="examples" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Method_Syntax" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Method_Syntax" />
-      <module name="examples" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lesson1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="TextColor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TextColor" />
-      <module name="examples" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TextColorTest1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TextColorTest1" />
+      <option name="MAIN_CLASS_NAME" value="Color.TextColor" />
       <module name="examples" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -79,11 +101,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ArrayExample2" />
+        <item itemvalue="Application.ArrayExample" />
+        <item itemvalue="Application.HomeWork1" />
         <item itemvalue="Application.Counter" />
         <item itemvalue="Application.TextColor" />
-        <item itemvalue="Application.MethodSyntax2" />
-        <item itemvalue="Application.Method_Syntax" />
-        <item itemvalue="Application.TextColorTest1" />
       </list>
     </recent_temporary>
   </component>
@@ -144,8 +166,13 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/TextColor.java</url>
+          <url>file://$PROJECT_DIR$/src/Color/TextColor.java</url>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/lesson1/HomeWork1.java</url>
+          <line>2</line>
+          <option name="timeStamp" value="3" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

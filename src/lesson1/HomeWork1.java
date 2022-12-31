@@ -2,10 +2,30 @@ package lesson1;
 
 public class HomeWork1 {
     public static void main(String[] args) {
-        task1();
+        //FIXME
+        // Ниже приведены значения присваиваемые переменным. Их можно изменять для проверки различных вариантов входных
+        // аргументов. Типы данных изменять нельзя
+        int depositAmount = 1500;
+        int depositYears = 5;
+        int depositAnnualPercentage = 3;
 
+        float totalDepositAmount = getTotalDepositAmount(depositAmount, depositYears, depositAnnualPercentage);
+        System.out.printf("Result: %f", totalDepositAmount);
     }
-    private static void task1() {
-        System.out.println("Решение первой задачи");
+
+    /**
+     * Высчитывает конечную сумма на депозитном счете, при условии:
+     * <ul>
+     *     <li>процент простой, т.е. всегда считается от первоначальной суммы вклада</li>
+     *     <li>вклад без возможности досрочного снятия</li>
+     * </ul>
+     *
+     * @param depositAmount           первоначальная сумма на счете
+     * @param depositYears            время вклада в годах
+     * @param depositAnnualPercentage ежегодный простой процент
+     */
+    static float getTotalDepositAmount(int depositAmount, int depositYears, int depositAnnualPercentage) {
+        float allProfits = depositAmount * depositAnnualPercentage / 100.f * depositYears;
+        return  allProfits + depositAmount;
     }
 }
