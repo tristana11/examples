@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="63b97433-0aff-4c49-a70e-380388b42473" name="Changes" comment="feat:  fix">
-      <change afterPath="$PROJECT_DIR$/src/Array/IterateOverArray.java" afterDir="false" />
+    <list default="true" id="63b97433-0aff-4c49-a70e-380388b42473" name="Changes" comment="feat:  add IterateOverArray">
+      <change afterPath="$PROJECT_DIR$/src/Array/IterateMultiArray.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -41,13 +41,13 @@
     "last_opened_file_path": "D:/home/levak/dev/course-java-core"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.IterateOverArray">
-    <configuration name="ArrayExample2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Array.ArrayExample2" />
+  <component name="RunManager" selected="Application.IterateMultiArray">
+    <configuration name="HomeWork1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lesson1.HomeWork1" />
       <module name="examples" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Array.*" />
+          <option name="PATTERN" value="lesson1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -55,12 +55,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HomeWork1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lesson1.HomeWork1" />
+    <configuration name="IterateMultiArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Array.IterateMultiArray" />
       <module name="examples" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lesson1.*" />
+          <option name="PATTERN" value="Array.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -97,11 +97,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.IterateMultiArray" />
         <item itemvalue="Application.IterateOverArray" />
         <item itemvalue="Application.SortArray" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.HomeWork1" />
-        <item itemvalue="Application.ArrayExample2" />
       </list>
     </recent_temporary>
   </component>
@@ -156,7 +156,14 @@
       <option name="project" value="LOCAL" />
       <updated>1672859030109</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="feat:  add IterateOverArray">
+      <created>1672869705678</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1672869705678</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -180,7 +187,8 @@
     <MESSAGE value="feat:  add Counter and code" />
     <MESSAGE value="feat:  add SortArray" />
     <MESSAGE value="feat:  fix" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat:  fix" />
+    <MESSAGE value="feat:  add IterateOverArray" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat:  add IterateOverArray" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
