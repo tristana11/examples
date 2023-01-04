@@ -4,13 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="63b97433-0aff-4c49-a70e-380388b42473" name="Changes" comment="feat:  add Counter and code">
-      <change afterPath="$PROJECT_DIR$/src/Array/ArrayExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Array/ArrayExample2.java" afterDir="false" />
+    <list default="true" id="63b97433-0aff-4c49-a70e-380388b42473" name="Changes" comment="feat:  add SortArray">
+      <change afterPath="$PROJECT_DIR$/src/Array/SortArray.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/TextColor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Color/TextColor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/TextColorTest1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Color/TextColorTest1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lesson1/HomeWork1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lesson1/HomeWork1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,14 +35,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "D:/home/levak/dev/examples"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/home/levak/dev/examples&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.ArrayExample2">
+}</component>
+  <component name="RunManager" selected="Application.SortArray">
     <configuration name="ArrayExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Array.ArrayExample" />
       <module name="examples" />
@@ -72,13 +69,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Counter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Counter" />
-      <module name="examples" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="HomeWork1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="lesson1.HomeWork1" />
       <module name="examples" />
@@ -92,8 +82,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TextColor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Color.TextColor" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="examples" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SortArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SortArray" />
       <module name="examples" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -101,11 +98,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SortArray" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.HomeWork1" />
         <item itemvalue="Application.ArrayExample2" />
         <item itemvalue="Application.ArrayExample" />
-        <item itemvalue="Application.HomeWork1" />
-        <item itemvalue="Application.Counter" />
-        <item itemvalue="Application.TextColor" />
       </list>
     </recent_temporary>
   </component>
@@ -139,7 +136,14 @@
       <option name="project" value="LOCAL" />
       <updated>1672435522732</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="feat:  add Counter and code">
+      <created>1672514693604</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1672514693604</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -160,7 +164,9 @@
     <MESSAGE value="feat:  homework done lesson1" />
     <MESSAGE value="feat:  1 add 1 modified" />
     <MESSAGE value="feat:  modified" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat:  modified" />
+    <MESSAGE value="feat:  add Counter and code" />
+    <MESSAGE value="feat:  add SortArray" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat:  add SortArray" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
