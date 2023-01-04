@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="63b97433-0aff-4c49-a70e-380388b42473" name="Changes" comment="feat:  add IterateOverArray">
-      <change afterPath="$PROJECT_DIR$/src/Array/IterateMultiArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="63b97433-0aff-4c49-a70e-380388b42473" name="feat:  add IterateMultiArray" comment="feat:  add IterateOverArray">
+      <change beforePath="$PROJECT_DIR$/src/Array/IterateMultiArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Array/IterateMultiArray.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -163,7 +162,14 @@
       <option name="project" value="LOCAL" />
       <updated>1672869705678</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="feat:  add IterateOverArray">
+      <created>1672876264761</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1672876264761</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
