@@ -42,8 +42,8 @@ public class StringsMethod {
         } */
 
         // предварительно проверять строку на null, потом на 0.
-        String strNull = null; // строка не указывает на объект
-        if (s != null && s.length() == 0) {
+        // String strS = null; строка не указывает на объект
+        if (strS != null && s.length() == 0) {
             System.out.println("String is empty");
         }
 
