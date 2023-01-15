@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="63b97433-0aff-4c49-a70e-380388b42473" name="feat:  add IterateMultiArray" comment="feat:  add Strings and StringMethod">
+    <list default="true" id="63b97433-0aff-4c49-a70e-380388b42473" name="feat:  add IterateMultiArray" comment="feat:  fix syntax  error">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Strings/StringsMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Strings/StringsMethod.java" afterDir="false" />
     </list>
@@ -211,7 +211,14 @@
       <option name="project" value="LOCAL" />
       <updated>1673815827968</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="feat:  fix syntax  error">
+      <created>1673816223192</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1673816223192</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -239,7 +246,8 @@
     <MESSAGE value="feat:  add IterateMultiArray" />
     <MESSAGE value="feat:  syntax error" />
     <MESSAGE value="feat:  add Strings and StringMethod" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat:  add Strings and StringMethod" />
+    <MESSAGE value="feat:  fix syntax  error" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat:  fix syntax  error" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

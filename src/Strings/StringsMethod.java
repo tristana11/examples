@@ -80,7 +80,7 @@ public class StringsMethod {
         String str25 = "Hello world!";
         int start = 6;
         int end = 11;
-        char[] dst=new char[end - start];
+        char[] dst = new char[end - start];
         str25.getChars(start, end, dst, 0);
         System.out.println(dst); // world
 
