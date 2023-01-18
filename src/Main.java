@@ -1,6 +1,7 @@
 public class Main {
     public static void main(String[] args) {
-        int x = 23;
-        System.out.printf("Hello world! %d", x);
+        String s1 = "string";
+        String s2 = "string";
+        System.out.println(s1 == s2);
     }
 }

@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="63b97433-0aff-4c49-a70e-380388b42473" name="feat:  add IterateMultiArray" comment="feat:  fix syntax  error">
-      <change afterPath="$PROJECT_DIR$/src/Strings/StringExamples.java" afterDir="false" />
+    <list default="true" id="63b97433-0aff-4c49-a70e-380388b42473" name="feat:  add IterateMultiArray" comment="feat:  add StringExamples.java">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,14 +34,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/home/levak/dev/examples&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "D:/home/levak/dev/examples"
   }
-}</component>
-  <component name="RunManager" selected="Application.StringExamples">
+}]]></component>
+  <component name="RunManager" selected="Application.Main">
     <configuration name="IterateMultiArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Array.IterateMultiArray" />
       <module name="examples" />
@@ -55,15 +55,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IterateOverArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Array.IterateOverArray" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="examples" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Array.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -109,11 +103,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.StringExamples" />
         <item itemvalue="Application.StringsMethod" />
         <item itemvalue="Application.Strings" />
         <item itemvalue="Application.IterateMultiArray" />
-        <item itemvalue="Application.IterateOverArray" />
       </list>
     </recent_temporary>
   </component>
@@ -231,7 +225,14 @@
       <option name="project" value="LOCAL" />
       <updated>1673819067271</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="feat:  add StringExamples.java">
+      <created>1673850936421</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1673850936421</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -260,7 +261,8 @@
     <MESSAGE value="feat:  syntax error" />
     <MESSAGE value="feat:  add Strings and StringMethod" />
     <MESSAGE value="feat:  fix syntax  error" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat:  fix syntax  error" />
+    <MESSAGE value="feat:  add StringExamples.java" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat:  add StringExamples.java" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -273,6 +275,10 @@
           <url>file://$PROJECT_DIR$/src/lesson1/HomeWork1.java</url>
           <line>2</line>
           <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Main.java</url>
+          <option name="timeStamp" value="4" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
